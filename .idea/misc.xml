@@ -4,8 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_absents.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_all.xml" value="0.1" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_presents.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Dados/Documents/ASProjects/Convidados/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
