@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Convidados">
         <activity
-            android:name=".GuestFormActivity"
+            android:name=".view.GuestFormActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

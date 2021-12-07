@@ -1,4 +1,4 @@
-package com.example.convidados
+package com.example.convidados.viewmodel
 
 import androidx.lifecycle.ViewModel
 
