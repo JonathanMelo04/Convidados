@@ -23,4 +23,14 @@ class GuestRepository {
     fun save(guest: GuestModel){
 
     }
+
+    fun update(guest: GuestModel){
+
+    }
+
+    fun delete(guest: GuestModel){
+
+    }
+
+    // CRUD - Create, Read, Update, Delete
 }
